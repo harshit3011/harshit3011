@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshit Khosla</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshit3011&label=Profile%20views&color=0e75b6&style=flat" alt="harshit3011" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit3011&label=Profile%20views&color=0e75b6&style=flat" alt="harshit3011" /> </p>
 
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <div>
-      - 🔭 I’m currently working at **EPAM Systems**<br>
-      - 🌱 I’m currently learning **Golang, AWS, and MERN**<br>
-      - 💬 Ask me about **Java, ReactJs, Golang & JavaScript**<br>
-      - 📫 How to reach me **harshitscience30@gmail.com**
-    </div>
-    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-  </div>
-</div>
+- 🔭 I’m currently working at **EPAM Systems**
+
+- 🌱 I’m currently learning **Golang,AWS and MERN**
+
+- 💬 Ask me about **Java, ReactJs, Golang & JavaScript**
+
+- 📫 How to reach me **harshitscience30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -116,4 +110,7 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&show_icons=true&locale=en&layout=compact" alt="harshit3011" /></p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&show_icons=true&locale=en&layout=compact" alt="harshit3011" />
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+</p>
