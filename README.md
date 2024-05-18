@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Khosla</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit3011&label=Profile%20views&color=0e75b6&style=flat" alt="harshit3011" /> </p>
 
 - 🔭 I’m currently working at **EPAM Systems**
@@ -11,12 +11,15 @@
 
 - 📫 How to reach me **harshitscience30@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/harshitkhosla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkhosla8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-khosla-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-khosla" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshit_3011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_3011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshit_3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_3011" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -112,5 +115,4 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&show_icons=true&locale=en&layout=compact" alt="harshit3011" />
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 </p>
