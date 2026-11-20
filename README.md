@@ -63,7 +63,7 @@ func main() {
 		},
 		Philosophy: "If you can't build it from scratch, you don't really understand it.",
 	}
-	_ = harshit // deploying to prod on a Friday 🚀
+	_ = harshit // deploying to prod on a Friday
 }
 ```
 
