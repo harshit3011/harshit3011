@@ -1,118 +1,142 @@
-<h1 align="center">Hi 👋, I'm Harshit Khosla</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit3011&label=Profile%20views&color=0e75b6&style=flat" alt="harshit3011" /> </p>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:7c3aed&height=200&section=header&text=Harshit%20Khosla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20AI%20Engineer%20%E2%80%A2%20Go%20Backend%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
-- 🔭 I’m currently working at **EPAM Systems**
-
-- 🌱 I’m currently learning **Golang,AWS and MERN**
-
-- 💬 Ask me about **Java, ReactJs, Golang & JavaScript**
-
-- 📫 How to reach me **harshitscience30@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/harshitkhosla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkhosla8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-khosla-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-khosla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit_3011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_3011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshit_3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_3011" height="30" width="40" /></a>
-  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+building+AI+agents+that+close+tickets+on+their+own;%3E+writing+Go+that+doesn't+panic()+at+3am;%3E+shipping+on+AWS%2C+breaking+things+in+staging;%3E+explaining+system+design+on+X+%F0%9F%A7%B5" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <a href="https://twitter.com/harshitkhosla8"><img src="https://img.shields.io/badge/-@harshitkhosla8-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harshit-khosla-"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/quirky-rants"><img src="https://img.shields.io/badge/-Quirky%20Rants-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/harshit_3011"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/harshit_3011"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="mailto:harshitscience30@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&show_icons=true&locale=en&layout=compact" alt="harshit3011" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshit3011&label=PROFILE+VIEWS&color=00ADD8&style=flat-square" />
 </p>
+
+---
+
+### `> cat harshit.go`
+
+```go
+package main
+
+type Engineer struct {
+	Name       string
+	Role       string
+	Company    string
+	Base       string
+	Building   []string
+	Stack      map[string][]string
+	Writing    []string
+	Philosophy string
+}
+
+func main() {
+	harshit := Engineer{
+		Name:    "Harshit Khosla",
+		Role:    "Cloud AI Engineer",
+		Company: "EPAM Systems",
+		Base:    "India 🇮🇳",
+		Building: []string{
+			"SIA — agentic pipeline that triages & resolves Salesforce tickets via MCP tools",
+			"Gitpulse — GitHub repo-health analytics dashboard",
+			"Distributed systems in Go, from scratch, for fun",
+		},
+		Stack: map[string][]string{
+			"backend":  {"Go", "Java", "Node.js"},
+			"cloud":    {"AWS", "Docker", "Linux"},
+			"ai":       {"LLMs", "Agents", "MCP", "RAG"},
+			"frontend": {"React", "TypeScript", "Tailwind"},
+			"data":     {"PostgreSQL", "MongoDB", "MySQL"},
+		},
+		Writing: []string{
+			"System design / HLD / LLD threads on X",
+			"Daily engineering concepts, explained short",
+			"Quirky Rants on Medium",
+		},
+		Philosophy: "If you can't build it from scratch, you don't really understand it.",
+	}
+	_ = harshit // deploying to prod on a Friday 🚀
+}
+```
+
+---
+
+### `> ls ~/career --timeline`
+
+```diff
++ [now]   Cloud AI Engineer      → S&P Global   (via EPAM)  // agentic AI, MCP, LLM pipelines
++ [prev]  Cloud (AWS) Engineer   → Novartis     (via EPAM)  // infra, serverless, IaC
++ [prev]  Go Backend Engineer    → EPAM Systems             // services, APIs, concurrency
+! [2019-23] B.E. Computer Science — Thapar Institute of Engineering & Technology
+```
+
+---
+
+### `> ls ~/projects`
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| 🩺 **[Gitpulse](https://github.com/harshit3011/gitpulse)** | GitHub analytics & repo-health dashboard. Phase 2: AI insights | `Go` `React` |
+| 💬 **[Distributed Chat](https://github.com/harshit3011/distributed-chat-system)** | Horizontally scalable real-time chat | `Go` `WebSockets` `React` |
+| 🔀 **[Reverse-Proxy-Go](https://github.com/harshit3011/Reverse-Proxy-Go)** | Reverse proxy / load balancer built on raw `net/http` | `Go` |
+| 🔐 **[Password Manager](https://github.com/harshit3011/password-manager)** | Encrypted vault with zero-knowledge design | `Go` `React` |
+| 📺 **[Video Platform](https://github.com/harshit3011/youtube-clone)** | YouTube-style upload, transcode & stream | `Go` `React` |
+
+<details>
+<summary><b>🧪 <code>~/projects/queue</code> — what I'm building next (click)</b></summary>
+<br>
+
+```bash
+$ cat roadmap.txt
+[ ] Raft-based distributed KV store
+[ ] Mini Docker (namespaces + cgroups)
+[ ] Toy database w/ B-tree storage engine
+[ ] Distributed job queue
+[ ] gRPC service mesh
+[ ] Interpreter for a tiny language
+```
+</details>
+
+---
+
+### `> which --all tools`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,js,ts,python,cpp&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,tensorflow&theme=dark" />
+</p>
+
+---
+
+### `> git log --stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit3011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit3011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshit3011&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshit3011&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <code>while (alive) { learn(); build(); ship(); write(); }</code>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00ADD8,100:0d1117&height=120&section=footer" />
